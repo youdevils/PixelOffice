@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ItemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>3</ID>
+  <Type>Valuable</Type>
+  <Name>Two of Spades</Name>
+  <Description>A low value card of spades, usually sold for easy money.</Description>
+  <Value>25</Value>
+  <SpriteURI>Icons/Card/2spades</SpriteURI>
+</ItemData>

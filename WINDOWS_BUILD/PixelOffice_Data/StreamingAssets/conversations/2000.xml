@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ConversationData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NPCID>2</NPCID>
+  <ID>2000</ID>
+  <NPCName>Lil Mushy</NPCName>
+  <PortraitURI>Portraits/MushroomPortrait</PortraitURI>
+  <StepData>
+    <StepData>
+      <Text>So..Another idiot that goes around trying to talk to mushrooms..Are you stupid?</Text>
+      <OptionData>
+        <OptionData>
+          <Text>Ah..No!</Text>
+          <DestinationID>1</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>0</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+      </OptionData>
+    </StepData>
+    <StepData>
+      <Text>OMG...You don't even blink at the fact I answered back...you are stupid!</Text>
+      <OptionData>
+        <OptionData>
+          <Text>End Conversation</Text>
+          <DestinationID>-1</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>0</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+      </OptionData>
+    </StepData>
+  </StepData>
+</ConversationData>

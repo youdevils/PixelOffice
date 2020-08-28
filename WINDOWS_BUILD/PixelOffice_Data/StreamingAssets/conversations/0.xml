@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ConversationData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NPCID>1</NPCID>
+  <ID>0</ID>
+  <StepData>
+    <StepData>
+      <Text>asdasd</Text>
+      <OptionData>
+        <OptionData>
+          <Text>asad</Text>
+          <DestinationID>-1</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>-1</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+      </OptionData>
+    </StepData>
+  </StepData>
+</ConversationData>

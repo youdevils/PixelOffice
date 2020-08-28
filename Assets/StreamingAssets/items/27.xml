@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ItemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>27</ID>
+  <Type>Valuable</Type>
+  <Name>Eight of Spades</Name>
+  <Description>A moderate value card of spades, usually sold for pretty good money.</Description>
+  <Value>750</Value>
+  <SpriteURI>Icons/Card/8spades</SpriteURI>
+</ItemData>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ConversationData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NPCID>2</NPCID>
+  <ID>0</ID>
+  <StepData>
+    <StepData>
+      <Text>I am a knight of the fallen order, and who are you good sir?</Text>
+      <OptionData>
+        <OptionData>
+          <Text>I'm death walking.</Text>
+          <DestinationID>1</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>-1</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+        <OptionData>
+          <Text>No one.</Text>
+          <DestinationID>-1</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>-1</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+      </OptionData>
+    </StepData>
+    <StepData>
+      <Text>Death walking? Are you a Demon!</Text>
+      <OptionData>
+        <OptionData>
+          <Text>Leave</Text>
+          <DestinationID>-1</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>-1</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+      </OptionData>
+    </StepData>
+  </StepData>
+</ConversationData>

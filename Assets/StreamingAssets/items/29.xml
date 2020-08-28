@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ItemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>29</ID>
+  <Type>Valuable</Type>
+  <Name>Nine of Diamonds</Name>
+  <Description>A moderate value card of diamonds, usually sold for pretty good money.</Description>
+  <Value>850</Value>
+  <SpriteURI>Icons/Card/9diamonds</SpriteURI>
+</ItemData>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<ConversationData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NPCID>1</NPCID>
+  <ID>1000</ID>
+  <StepData>
+    <StepData>
+      <Text>Hello you, can you do me a favour?</Text>
+      <OptionData>
+        <OptionData>
+          <Text>Ok Sure. Why not.</Text>
+          <DestinationID>1</DestinationID>
+          <ValueCheck>ValueTwo</ValueCheck>
+          <ValueCheckAmount>1</ValueCheckAmount>
+          <Trigger>QuestAcceptance</Trigger>
+        </OptionData>
+        <OptionData>
+          <Text>No!</Text>
+          <DestinationID>-1</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>-1</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+      </OptionData>
+    </StepData>
+    <StepData>
+      <Text>If you get me a &lt;color=#0EA1FD&gt;Six of Diamonds. &lt;/color&gt; I'll &lt;color=#C2C34D&gt;Reward&lt;/color&gt; you.</Text>
+      <OptionData>
+        <OptionData>
+          <Text>End.</Text>
+          <DestinationID>-1</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>-1</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+      </OptionData>
+    </StepData>
+    <StepData>
+      <Text>Leave then.</Text>
+      <OptionData>
+        <OptionData>
+          <Text>End.</Text>
+          <DestinationID>-1</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>-1</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+      </OptionData>
+    </StepData>
+  </StepData>
+</ConversationData>

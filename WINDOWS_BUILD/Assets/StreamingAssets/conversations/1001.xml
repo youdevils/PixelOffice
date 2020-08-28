@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConversationData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NPCID>1</NPCID>
+  <ID>1001</ID>
+  <NPCName>Orc Farmer</NPCName>
+  <PortraitURI>Portraits/NPCPortrait</PortraitURI>
+  <StepData>
+    <StepData>
+      <Text>Wow you got it! Here take this &lt;color=#0EA1FD&gt;Ace Card&lt;/color&gt;</Text>
+      <OptionData>
+        <OptionData>
+          <Text>Thankyou! Ah..What does it do?</Text>
+          <DestinationID>1</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>0</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+        <OptionData>
+          <Text>Hmm another card..</Text>
+          <DestinationID>2</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>0</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+      </OptionData>
+    </StepData>
+    <StepData>
+      <Text>I dont know.</Text>
+      <OptionData>
+        <OptionData>
+          <Text>End Conversation</Text>
+          <DestinationID>-1</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>0</ValueCheckAmount>
+          <Trigger>ObtainQuestReward</Trigger>
+        </OptionData>
+      </OptionData>
+    </StepData>
+    <StepData>
+      <Text>Never pleased are you? well don't take it then.</Text>
+      <OptionData>
+        <OptionData>
+          <Text>End Conversation</Text>
+          <DestinationID>-1</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>0</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+      </OptionData>
+    </StepData>
+  </StepData>
+</ConversationData>

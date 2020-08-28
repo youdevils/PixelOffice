@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ItemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>40</ID>
+  <Type>KeyItem</Type>
+  <Name>Queen of Clubs</Name>
+  <Description>A high value card of clubs that is worth a small fortune. Having one in your possession allows you to go places.</Description>
+  <Value>2000</Value>
+  <SpriteURI>Icons/Card/queenclubs</SpriteURI>
+</ItemData>

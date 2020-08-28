@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ConversationData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NPCID>1</NPCID>
+  <ID>1002</ID>
+  <StepData>
+    <StepData>
+      <Text>I gave you everything already.</Text>
+      <OptionData>
+        <OptionData>
+          <Text>End Conversation</Text>
+          <DestinationID>-1</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>0</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+      </OptionData>
+    </StepData>
+  </StepData>
+</ConversationData>

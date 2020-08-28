@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ItemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>5</ID>
+  <Type>Valuable</Type>
+  <Name>Three of Diamonds</Name>
+  <Description>A low value card of diamonds, usually sold for easy money.</Description>
+  <Value>50</Value>
+  <SpriteURI>Icons/Card/3diamonds</SpriteURI>
+</ItemData>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ItemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>15</ID>
+  <Type>Valuable</Type>
+  <Name>Five of Spades</Name>
+  <Description>A low value card of spades, usually sold for easy money.</Description>
+  <Value>150</Value>
+  <SpriteURI>Icons/Card/5spades</SpriteURI>
+</ItemData>

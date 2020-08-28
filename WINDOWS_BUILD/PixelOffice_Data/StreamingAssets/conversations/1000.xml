@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<ConversationData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NPCID>1</NPCID>
+  <ID>1000</ID>
+  <NPCName>Orc Farmer</NPCName>
+  <PortraitURI>Portraits/NPCPortrait</PortraitURI>
+  <StepData>
+    <StepData>
+      <Text>Hey can you do something for me?</Text>
+      <OptionData>
+        <OptionData>
+          <Text>This one can be alot less, its will be on a button.This one can be alot less, its will be on a button.</Text>
+          <DestinationID>0</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>-1</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+        <OptionData>
+          <Text>Sure OK.w</Text>
+          <DestinationID>1</DestinationID>
+          <ValueCheck>ValueOne</ValueCheck>
+          <ValueCheckAmount>0</ValueCheckAmount>
+          <Trigger>QuestAcceptance</Trigger>
+        </OptionData>
+      </OptionData>
+    </StepData>
+    <StepData>
+      <Text>If you get me a &lt;color=#0EA1FD&gt;Six of Diamonds. &lt;/color&gt; I'll R&lt;color=#C2C34D&gt;eward&lt;/color&gt; you.</Text>
+      <OptionData>
+        <OptionData>
+          <Text>End Conversation</Text>
+          <DestinationID>-1</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>-1</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+      </OptionData>
+    </StepData>
+    <StepData>
+      <Text>Leave me be then beggar.</Text>
+      <OptionData>
+        <OptionData>
+          <Text>End Conversation</Text>
+          <DestinationID>-1</DestinationID>
+          <ValueCheck>NULL</ValueCheck>
+          <ValueCheckAmount>-1</ValueCheckAmount>
+          <Trigger>None</Trigger>
+        </OptionData>
+      </OptionData>
+    </StepData>
+  </StepData>
+</ConversationData>

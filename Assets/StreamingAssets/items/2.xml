@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ItemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>2</ID>
+  <Type>Valuable</Type>
+  <Name>Two of Hearts</Name>
+  <Description>A low value card of hearts, usually sold for easy money.</Description>
+  <Value>25</Value>
+  <SpriteURI>Icons/Card/2hearts</SpriteURI>
+</ItemData>

@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: f4a105e7b0018e2489b7f0d92c9942b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2677437701361007271
+    second: 009 treasure chests_0
+  - first:
+      213: 4644995195737980118
+    second: 009 treasure chests_1
+  - first:
+      213: 3035614028371141899
+    second: 009 treasure chests_2
+  - first:
+      213: -8691396364413083667
+    second: 009 treasure chests_3
+  - first:
+      213: 2592730141682180124
+    second: 009 treasure chests_4
+  - first:
+      213: -7494595208423696761
+    second: 009 treasure chests_5
+  - first:
+      213: -5179040215834589690
+    second: 009 treasure chests_0
+  - first:
+      213: 2682372440669396847
+    second: 009 treasure chests_1
+  - first:
+      213: -8861624153256847603
+    second: 009 treasure chests_2
+  - first:
+      213: -5428721481414099715
+    second: 009 treasure chests_3
+  - first:
+      213: -3892482180836668490
+    second: 009 treasure chests_4
+  - first:
+      213: -4198329355165720130
+    second: 009 treasure chests_5
+  - first:
+      213: 1464379601131870590
+    second: 009 treasure chests_6
+  - first:
+      213: -1277238030439781065
+    second: 009 treasure chests_7
+  - first:
+      213: -7316485589995672930
+    second: 009 treasure chests_8
+  - first:
+      213: -6621492881310015213
+    second: 009 treasure chests_9
+  - first:
+      213: -3761463618592043691
+    second: 009 treasure chests_10
+  - first:
+      213: 4722149230660950580
+    second: 009 treasure chests_11
+  - first:
+      213: -6974264764575037739
+    second: 009 treasure chests_12
+  - first:
+      213: -5897637396083030399
+    second: 009 treasure chests_13
+  - first:
+      213: 3389881687773871677
+    second: 009 treasure chests_14
+  - first:
+      213: -7562123628509772018
+    second: 009 treasure chests_15
+  - first:
+      213: 6922059711108578618
+    second: 009 treasure chests_16
+  - first:
+      213: -3437938471947038824
+    second: 009 treasure chests_17
+  - first:
+      213: -1393539332627897422
+    second: 009 treasure chests_18
+  - first:
+      213: 5472623529583614233
+    second: 009 treasure chests_19
+  - first:
+      213: -2081104454729897426
+    second: 009 treasure chests_20
+  - first:
+      213: -7318047774008038115
+    second: 009 treasure chests_21
+  - first:
+      213: -4721957896527889985
+    second: 009 treasure chests_22
+  - first:
+      213: 1798730869650799823
+    second: 009 treasure chests_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 009 treasure chests_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 36
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60687b90d5a5028b0800000000000000
+      internalID: -5179040215834589690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 009 treasure chests_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f9561e583b93520800000000000000
+      internalID: 2682372440669396847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 009 treasure chests_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 36
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d079a1498cf250580800000000000000
+      internalID: -8861624153256847603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 009 treasure chests_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcb7c3439e49a4b0800000000000000
+      internalID: -5428721481414099715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 009 treasure chests_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 4
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb41bc64102bf9c0800000000000000
+      internalID: -3892482180836668490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 009 treasure chests_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1a047f1b98cb5c0800000000000000
+      internalID: -4198329355165720130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

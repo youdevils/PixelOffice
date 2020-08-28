@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ItemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>12</ID>
+  <Type>Valuable</Type>
+  <Name>Five of Clubs</Name>
+  <Description>A low value card of clubs, usually sold for easy money.</Description>
+  <Value>150</Value>
+  <SpriteURI>Icons/Card/5clubs</SpriteURI>
+</ItemData>

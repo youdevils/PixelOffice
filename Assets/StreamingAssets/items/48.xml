@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ItemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>48</ID>
+  <Type>Quest</Type>
+  <Name>Ace of Clubs</Name>
+  <Description>Merchants see no value in this card of clubs..it must be good for something.</Description>
+  <Value>0</Value>
+  <SpriteURI>Icons/Card/aceclubs</SpriteURI>
+</ItemData>

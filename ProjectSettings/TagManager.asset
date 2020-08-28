@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AutoSort
+  - Interactable
+  - Sun
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: StaticBaseOne
+    uniqueID: 1282289887
+    locked: 0
+  - name: StaticBaseTwo
+    uniqueID: 344587263
+    locked: 0
+  - name: StaticBaseThree
+    uniqueID: 4113887689
+    locked: 0
+  - name: Dynamic
+    uniqueID: 232930707
+    locked: 0
+  - name: StaticOver
+    uniqueID: 226617571
+    locked: 0
+  - name: UI
+    uniqueID: 1413684535
+    locked: 0

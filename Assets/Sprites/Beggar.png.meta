@@ -1,0 +1,6530 @@
+fileFormatVersion: 2
+guid: f524af12ee752184db5402db068309b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1482805003905077252
+    second: Beggar_0
+  - first:
+      213: 7886574316154172244
+    second: Beggar_1
+  - first:
+      213: 8650809171515545693
+    second: Beggar_2
+  - first:
+      213: 3601238241234835831
+    second: Beggar_3
+  - first:
+      213: 4649723262334267453
+    second: Beggar_4
+  - first:
+      213: -1311232157955164174
+    second: Beggar_5
+  - first:
+      213: -6397582123961247681
+    second: Beggar_6
+  - first:
+      213: -6581425607169207893
+    second: Beggar_7
+  - first:
+      213: 6604185648513286393
+    second: Beggar_8
+  - first:
+      213: -322070981300883859
+    second: Beggar_9
+  - first:
+      213: -5361016745745181024
+    second: Beggar_10
+  - first:
+      213: 3520692451633414803
+    second: Beggar_11
+  - first:
+      213: 7792193114231857912
+    second: Beggar_12
+  - first:
+      213: -2929039843739359281
+    second: Beggar_13
+  - first:
+      213: -5433014661341613947
+    second: Beggar_14
+  - first:
+      213: 8737216478416537324
+    second: Beggar_15
+  - first:
+      213: 3954558763347443991
+    second: Beggar_16
+  - first:
+      213: 241738149313951185
+    second: Beggar_17
+  - first:
+      213: -2166504416693367253
+    second: Beggar_18
+  - first:
+      213: 2314099352942786288
+    second: Beggar_19
+  - first:
+      213: 6902810561367629362
+    second: Beggar_20
+  - first:
+      213: -6849779778697184662
+    second: Beggar_21
+  - first:
+      213: -3277848541675222350
+    second: Beggar_22
+  - first:
+      213: 2737469652695794798
+    second: Beggar_23
+  - first:
+      213: 3735197918628860360
+    second: Beggar_24
+  - first:
+      213: 6636723387254369793
+    second: Beggar_25
+  - first:
+      213: -6276950861916271437
+    second: Beggar_26
+  - first:
+      213: 2256236511134863155
+    second: Beggar_27
+  - first:
+      213: 4819626421373371722
+    second: Beggar_28
+  - first:
+      213: 7652687946721101206
+    second: Beggar_29
+  - first:
+      213: 2939882370347368280
+    second: Beggar_30
+  - first:
+      213: -9222072744650584870
+    second: Beggar_31
+  - first:
+      213: -6814282427635530618
+    second: Beggar_32
+  - first:
+      213: 3663964881620052838
+    second: Beggar_33
+  - first:
+      213: 6950015351293395831
+    second: Beggar_34
+  - first:
+      213: 433945908464522469
+    second: Beggar_35
+  - first:
+      213: 8236308467380454018
+    second: Beggar_36
+  - first:
+      213: 4291408485353922735
+    second: Beggar_37
+  - first:
+      213: -2276704113020925613
+    second: Beggar_38
+  - first:
+      213: 3846539272377119603
+    second: Beggar_39
+  - first:
+      213: -5643667272035473874
+    second: Beggar_40
+  - first:
+      213: -2328237279936906352
+    second: Beggar_41
+  - first:
+      213: -4268382955762311482
+    second: Beggar_42
+  - first:
+      213: -4106203633946638604
+    second: Beggar_43
+  - first:
+      213: -6486705967739087216
+    second: Beggar_44
+  - first:
+      213: -6141158952097732741
+    second: Beggar_45
+  - first:
+      213: -3811895162252302680
+    second: Beggar_46
+  - first:
+      213: -1942819412214005009
+    second: Beggar_47
+  - first:
+      213: -576246495062068274
+    second: Beggar_48
+  - first:
+      213: -6931864183883950297
+    second: Beggar_49
+  - first:
+      213: 1113151396190452144
+    second: Beggar_50
+  - first:
+      213: -1795622631811166096
+    second: Beggar_51
+  - first:
+      213: 4103418906445032467
+    second: Beggar_52
+  - first:
+      213: 5061109067098379468
+    second: Beggar_53
+  - first:
+      213: 3973522214076057234
+    second: Beggar_54
+  - first:
+      213: -3402267020184911981
+    second: Beggar_55
+  - first:
+      213: 3582595579403759607
+    second: Beggar_56
+  - first:
+      213: 5352578845060492965
+    second: Beggar_57
+  - first:
+      213: 8424240137021188185
+    second: Beggar_58
+  - first:
+      213: 8926519084153505889
+    second: Beggar_59
+  - first:
+      213: 7725738865498022140
+    second: Beggar_60
+  - first:
+      213: -1657339254617087585
+    second: Beggar_61
+  - first:
+      213: -1066744227122395870
+    second: Beggar_62
+  - first:
+      213: 2179309511622736706
+    second: Beggar_63
+  - first:
+      213: 9192309564295317349
+    second: Beggar_64
+  - first:
+      213: -1441045633604707156
+    second: Beggar_65
+  - first:
+      213: 5196306792281940999
+    second: Beggar_66
+  - first:
+      213: -2003567166041038272
+    second: Beggar_67
+  - first:
+      213: 955983172622850484
+    second: Beggar_68
+  - first:
+      213: -5420027460703613832
+    second: Beggar_69
+  - first:
+      213: 3222945109229757468
+    second: Beggar_70
+  - first:
+      213: -4023908615086493952
+    second: Beggar_71
+  - first:
+      213: 3729780951563669193
+    second: Beggar_72
+  - first:
+      213: -8127554936406424811
+    second: Beggar_73
+  - first:
+      213: -5567283744527037259
+    second: Beggar_74
+  - first:
+      213: 6204227917261228937
+    second: Beggar_75
+  - first:
+      213: 4995994243459068486
+    second: Beggar_76
+  - first:
+      213: 5320945192834691995
+    second: Beggar_77
+  - first:
+      213: -473982817718076278
+    second: Beggar_78
+  - first:
+      213: -7222038354068923283
+    second: Beggar_79
+  - first:
+      213: -3454005977225752313
+    second: Beggar_80
+  - first:
+      213: -9194664406417702581
+    second: Beggar_81
+  - first:
+      213: 6185790867414317146
+    second: Beggar_82
+  - first:
+      213: 5256879539610735801
+    second: Beggar_83
+  - first:
+      213: 3154570449483639025
+    second: Beggar_84
+  - first:
+      213: 4635967576494609631
+    second: Beggar_85
+  - first:
+      213: 4950057872435822709
+    second: Beggar_86
+  - first:
+      213: -121347876815249287
+    second: Beggar_87
+  - first:
+      213: -6427343359998862194
+    second: Beggar_88
+  - first:
+      213: -7583649221943141107
+    second: Beggar_89
+  - first:
+      213: -1372960552913683652
+    second: Beggar_90
+  - first:
+      213: -556811341917650004
+    second: Beggar_91
+  - first:
+      213: 5426861196523322481
+    second: Beggar_92
+  - first:
+      213: 5219522439365561095
+    second: Beggar_93
+  - first:
+      213: 942843404221184930
+    second: Beggar_94
+  - first:
+      213: -3954734467530642269
+    second: Beggar_95
+  - first:
+      213: 331948923125225767
+    second: Beggar_96
+  - first:
+      213: -3598771476813234252
+    second: Beggar_97
+  - first:
+      213: 7075100334360485439
+    second: Beggar_98
+  - first:
+      213: 4823809454852067850
+    second: Beggar_99
+  - first:
+      213: 1628807424705495125
+    second: Beggar_100
+  - first:
+      213: -1611631573142301088
+    second: Beggar_101
+  - first:
+      213: -3648412078631860338
+    second: Beggar_102
+  - first:
+      213: 7041212302374507434
+    second: Beggar_103
+  - first:
+      213: 7668423873184624207
+    second: Beggar_104
+  - first:
+      213: -1128225633593352434
+    second: Beggar_105
+  - first:
+      213: -8274362782896014133
+    second: Beggar_106
+  - first:
+      213: 1466150663521469358
+    second: Beggar_107
+  - first:
+      213: -6768361098858465173
+    second: Beggar_108
+  - first:
+      213: 2644503442753921002
+    second: Beggar_109
+  - first:
+      213: 6131960518835434682
+    second: Beggar_110
+  - first:
+      213: 6332607192291107398
+    second: Beggar_111
+  - first:
+      213: -588230000846746702
+    second: Beggar_112
+  - first:
+      213: 4682827836413760685
+    second: Beggar_113
+  - first:
+      213: -1602447571463771490
+    second: Beggar_114
+  - first:
+      213: 1816486764069112489
+    second: Beggar_115
+  - first:
+      213: -7607370546653892952
+    second: Beggar_116
+  - first:
+      213: 8075183057765201391
+    second: Beggar_117
+  - first:
+      213: 6032965309306746561
+    second: Beggar_118
+  - first:
+      213: 7436419060152717991
+    second: Beggar_119
+  - first:
+      213: -2713085599934701424
+    second: Beggar_120
+  - first:
+      213: 4540882405775385292
+    second: Beggar_121
+  - first:
+      213: 1068643885924569760
+    second: Beggar_122
+  - first:
+      213: -3061608008988905878
+    second: Beggar_123
+  - first:
+      213: -4456094910529784719
+    second: Beggar_124
+  - first:
+      213: 7578775806566253219
+    second: Beggar_125
+  - first:
+      213: 4210985176421987083
+    second: Beggar_126
+  - first:
+      213: -280227100573021486
+    second: Beggar_127
+  - first:
+      213: 5187277677362394549
+    second: Beggar_128
+  - first:
+      213: -7575886459095789186
+    second: Beggar_129
+  - first:
+      213: -7521167699980425408
+    second: Beggar_130
+  - first:
+      213: 6250925703487588140
+    second: Beggar_131
+  - first:
+      213: -1122649015946911996
+    second: Beggar_132
+  - first:
+      213: 9154844760201624201
+    second: Beggar_133
+  - first:
+      213: 308335503335573032
+    second: Beggar_134
+  - first:
+      213: 7277852220959542449
+    second: Beggar_135
+  - first:
+      213: 8005989644387979383
+    second: Beggar_136
+  - first:
+      213: 847831708865492321
+    second: Beggar_137
+  - first:
+      213: 4238614797272964904
+    second: Beggar_138
+  - first:
+      213: -8644620555056355509
+    second: Beggar_139
+  - first:
+      213: -2987183684235229315
+    second: Beggar_140
+  - first:
+      213: 1313561539779120515
+    second: Beggar_141
+  - first:
+      213: 6942665937957930877
+    second: Beggar_142
+  - first:
+      213: -4897626430428269063
+    second: Beggar_143
+  - first:
+      213: -8612288974196477058
+    second: Beggar_144
+  - first:
+      213: -2531244581647972451
+    second: Beggar_145
+  - first:
+      213: -2586677600711052764
+    second: Beggar_146
+  - first:
+      213: 5789490869456712495
+    second: Beggar_147
+  - first:
+      213: -3352854216901128652
+    second: Beggar_148
+  - first:
+      213: -9056101157149599510
+    second: Beggar_149
+  - first:
+      213: -8775259383493850742
+    second: Beggar_150
+  - first:
+      213: 7218791197288588712
+    second: Beggar_151
+  - first:
+      213: -7587590920677972368
+    second: Beggar_152
+  - first:
+      213: 7440535333552121064
+    second: Beggar_153
+  - first:
+      213: -4880236058856644636
+    second: Beggar_154
+  - first:
+      213: 362598947682116389
+    second: Beggar_155
+  - first:
+      213: -2436833966803080514
+    second: Beggar_156
+  - first:
+      213: -2275031690282231735
+    second: Beggar_157
+  - first:
+      213: 2393659271075262071
+    second: Beggar_158
+  - first:
+      213: 429849004267399572
+    second: Beggar_159
+  - first:
+      213: -2683243979434929191
+    second: Beggar_160
+  - first:
+      213: 5465141175096780266
+    second: Beggar_161
+  - first:
+      213: 6226152437080590954
+    second: Beggar_162
+  - first:
+      213: -662573999407540645
+    second: Beggar_163
+  - first:
+      213: -4782603051297158637
+    second: Beggar_164
+  - first:
+      213: -138114614192387341
+    second: Beggar_165
+  - first:
+      213: 5789375243363154323
+    second: Beggar_166
+  - first:
+      213: -8861703222248232508
+    second: Beggar_167
+  - first:
+      213: 6470730983416446509
+    second: Beggar_168
+  - first:
+      213: -1388970580961431801
+    second: Beggar_169
+  - first:
+      213: -6133634799431924203
+    second: Beggar_170
+  - first:
+      213: -6649863749000644675
+    second: Beggar_171
+  - first:
+      213: -2608095089168463853
+    second: Beggar_172
+  - first:
+      213: 131708598208026201
+    second: Beggar_173
+  - first:
+      213: 7650696028100940060
+    second: Beggar_174
+  - first:
+      213: 605827056840923483
+    second: Beggar_175
+  - first:
+      213: 9001060663336785727
+    second: Beggar_176
+  - first:
+      213: 1539863019196548899
+    second: Beggar_177
+  - first:
+      213: -6349922571026214723
+    second: Beggar_178
+  - first:
+      213: 1794462970906354438
+    second: Beggar_179
+  - first:
+      213: 5856608582112979023
+    second: Beggar_180
+  - first:
+      213: -4901390850389724328
+    second: Beggar_181
+  - first:
+      213: 2842887187218318253
+    second: Beggar_182
+  - first:
+      213: -5525327945362182759
+    second: Beggar_183
+  - first:
+      213: 7189547359660206356
+    second: Beggar_184
+  - first:
+      213: -7740972455994181464
+    second: Beggar_185
+  - first:
+      213: -8432237598097088409
+    second: Beggar_186
+  - first:
+      213: -7885451494131674847
+    second: Beggar_187
+  - first:
+      213: -288162272476279081
+    second: Beggar_188
+  - first:
+      213: 728948259897396088
+    second: Beggar_189
+  - first:
+      213: -2521276722565026654
+    second: Beggar_190
+  - first:
+      213: 423429005704002005
+    second: Beggar_191
+  - first:
+      213: -1616625808441190263
+    second: Beggar_192
+  - first:
+      213: 251899195712848609
+    second: Beggar_193
+  - first:
+      213: 5963501033536619182
+    second: Beggar_194
+  - first:
+      213: 1111271568948975994
+    second: Beggar_195
+  - first:
+      213: -2403504137359822267
+    second: Beggar_196
+  - first:
+      213: -6311252406282698888
+    second: Beggar_197
+  - first:
+      213: -2875478515176331945
+    second: Beggar_198
+  - first:
+      213: -469063046665242112
+    second: Beggar_199
+  - first:
+      213: 9016998656948160845
+    second: Beggar_200
+  - first:
+      213: 145756331547061638
+    second: Beggar_201
+  - first:
+      213: 9076017683335307791
+    second: Beggar_202
+  - first:
+      213: 4078000213134037079
+    second: Beggar_203
+  - first:
+      213: 3132362363690701947
+    second: Beggar_204
+  - first:
+      213: 5354305706378551570
+    second: Beggar_205
+  - first:
+      213: -4432691282671406119
+    second: Beggar_206
+  - first:
+      213: -7726877347572267720
+    second: Beggar_207
+  - first:
+      213: 6384757190700178354
+    second: Beggar_208
+  - first:
+      213: 4550353637486493138
+    second: Beggar_209
+  - first:
+      213: -8682263966966354324
+    second: Beggar_210
+  - first:
+      213: -2363005530620965697
+    second: Beggar_211
+  - first:
+      213: -3009848616168915048
+    second: Beggar_212
+  - first:
+      213: 2099013033281172323
+    second: Beggar_213
+  - first:
+      213: 1244171796037167986
+    second: Beggar_214
+  - first:
+      213: -3572692881498516656
+    second: Beggar_215
+  - first:
+      213: 1639707587169672876
+    second: Beggar_216
+  - first:
+      213: -922736847563965226
+    second: Beggar_217
+  - first:
+      213: 5675576258986114350
+    second: Beggar_218
+  - first:
+      213: 7959409218650851006
+    second: Beggar_219
+  - first:
+      213: -2906053210518461101
+    second: Beggar_220
+  - first:
+      213: 1357353003760541947
+    second: Beggar_221
+  - first:
+      213: -753041579820487466
+    second: Beggar_222
+  - first:
+      213: 2614967040638750813
+    second: Beggar_223
+  - first:
+      213: 2723157920733076144
+    second: Beggar_224
+  - first:
+      213: -1450934644489865724
+    second: Beggar_225
+  - first:
+      213: 7941705336573918707
+    second: Beggar_226
+  - first:
+      213: -4946660247575730511
+    second: Beggar_227
+  - first:
+      213: 6993397041036714192
+    second: Beggar_228
+  - first:
+      213: -488016775349188768
+    second: Beggar_229
+  - first:
+      213: -1998689763928014141
+    second: Beggar_230
+  - first:
+      213: -8256158863818066536
+    second: Beggar_231
+  - first:
+      213: -6507477750030314617
+    second: Beggar_232
+  - first:
+      213: 3943298917980458169
+    second: Beggar_233
+  - first:
+      213: -7796301600262515148
+    second: Beggar_234
+  - first:
+      213: 4742399784655067361
+    second: Beggar_235
+  - first:
+      213: 2609202419897103737
+    second: Beggar_236
+  - first:
+      213: -1892529094240071482
+    second: Beggar_237
+  - first:
+      213: 8478523045666416378
+    second: Beggar_238
+  - first:
+      213: 1073677661821724857
+    second: Beggar_239
+  - first:
+      213: -577876570203324937
+    second: Beggar_240
+  - first:
+      213: -5015930508911838374
+    second: Beggar_241
+  - first:
+      213: 5132726706815899188
+    second: Beggar_242
+  - first:
+      213: -2727944828363802399
+    second: Beggar_243
+  - first:
+      213: -604710981044795549
+    second: Beggar_244
+  - first:
+      213: -6296445672681360274
+    second: Beggar_245
+  - first:
+      213: -7715002304498237967
+    second: Beggar_246
+  - first:
+      213: -7351844394209125104
+    second: Beggar_247
+  - first:
+      213: 4658466198293098875
+    second: Beggar_248
+  - first:
+      213: -6350997684492209702
+    second: Beggar_249
+  - first:
+      213: 1264986415359343575
+    second: Beggar_250
+  - first:
+      213: 3141915891306583613
+    second: Beggar_251
+  - first:
+      213: 2041539336646216947
+    second: Beggar_252
+  - first:
+      213: 3013967009256945762
+    second: Beggar_253
+  - first:
+      213: 1975761471071021210
+    second: Beggar_254
+  - first:
+      213: -4503084110749998803
+    second: Beggar_255
+  - first:
+      213: 3096421062639945119
+    second: Beggar_256
+  - first:
+      213: -4907692492111666747
+    second: Beggar_257
+  - first:
+      213: -147770463020983718
+    second: Beggar_258
+  - first:
+      213: -4983407547468767379
+    second: Beggar_259
+  - first:
+      213: 3356178727768721645
+    second: Beggar_260
+  - first:
+      213: 6484667375471080016
+    second: Beggar_261
+  - first:
+      213: -4778350918180764650
+    second: Beggar_262
+  - first:
+      213: 7337921894607031874
+    second: Beggar_263
+  - first:
+      213: 882553266771862418
+    second: Beggar_264
+  - first:
+      213: -5332520230171923378
+    second: Beggar_265
+  - first:
+      213: 3072576286267717998
+    second: Beggar_266
+  - first:
+      213: -4234885986190336269
+    second: Beggar_267
+  - first:
+      213: -647696097527229257
+    second: Beggar_268
+  - first:
+      213: 7048041366750085937
+    second: Beggar_269
+  - first:
+      213: -3837822218946020145
+    second: Beggar_270
+  - first:
+      213: 8507183141238221743
+    second: Beggar_271
+  - first:
+      213: 6388576292919240586
+    second: Beggar_272
+  - first:
+      213: -5673395848716602107
+    second: Beggar_273
+  - first:
+      213: -8451636637650916791
+    second: Beggar_274
+  - first:
+      213: -4147096776724326100
+    second: Beggar_275
+  - first:
+      213: 2566368187561014324
+    second: Beggar_276
+  - first:
+      213: -3161633962664663609
+    second: Beggar_277
+  - first:
+      213: -1801478018479450459
+    second: Beggar_278
+  - first:
+      213: 6585033887369857346
+    second: Beggar_279
+  - first:
+      213: -3865430693574537965
+    second: Beggar_280
+  - first:
+      213: 2577021358072433290
+    second: Beggar_281
+  - first:
+      213: 3506512743189548295
+    second: Beggar_282
+  - first:
+      213: 2001423101479892464
+    second: Beggar_283
+  - first:
+      213: -5025019527836634081
+    second: Beggar_284
+  - first:
+      213: -550699845034668525
+    second: Beggar_285
+  - first:
+      213: 6623732232540506246
+    second: Beggar_286
+  - first:
+      213: 3483545411769688928
+    second: Beggar_287
+  - first:
+      213: 7328820700213508331
+    second: Beggar_288
+  - first:
+      213: 6358369716680430696
+    second: Beggar_289
+  - first:
+      213: 6387737898749210605
+    second: Beggar_290
+  - first:
+      213: -7971700591146164565
+    second: Beggar_291
+  - first:
+      213: -1686808569795932673
+    second: Beggar_292
+  - first:
+      213: 8492828133447118372
+    second: Beggar_293
+  - first:
+      213: 8454707088624605446
+    second: Beggar_294
+  - first:
+      213: 5357894755494508351
+    second: Beggar_295
+  - first:
+      213: -3644189642174385390
+    second: Beggar_296
+  - first:
+      213: -1402979733665910389
+    second: Beggar_297
+  - first:
+      213: 45752546547117654
+    second: Beggar_298
+  - first:
+      213: 7225446443586877775
+    second: Beggar_299
+  - first:
+      213: -5127155756161860435
+    second: Beggar_300
+  - first:
+      213: 340828111742927893
+    second: Beggar_301
+  - first:
+      213: -6563014487372030836
+    second: Beggar_302
+  - first:
+      213: -8043115917711768169
+    second: Beggar_303
+  - first:
+      213: 2713328968955710762
+    second: Beggar_304
+  - first:
+      213: -2972827811248985953
+    second: Beggar_305
+  - first:
+      213: -5555382818596453442
+    second: Beggar_306
+  - first:
+      213: 6344797192192540353
+    second: Beggar_307
+  - first:
+      213: -1355822271254443760
+    second: Beggar_308
+  - first:
+      213: -9026604267981214534
+    second: Beggar_309
+  - first:
+      213: 2157210960404429163
+    second: Beggar_310
+  - first:
+      213: 7222738618952310450
+    second: Beggar_311
+  - first:
+      213: -339240741494231272
+    second: Beggar_312
+  - first:
+      213: 5554740070894933281
+    second: Beggar_313
+  - first:
+      213: -3206464018476184055
+    second: Beggar_314
+  - first:
+      213: 7314832273546767626
+    second: Beggar_315
+  - first:
+      213: 4409911567614441252
+    second: Beggar_316
+  - first:
+      213: -7184149009521025302
+    second: Beggar_317
+  - first:
+      213: 3380470362851563494
+    second: Beggar_318
+  - first:
+      213: 2519048442149121751
+    second: Beggar_319
+  - first:
+      213: 8850620221572827900
+    second: Beggar_320
+  - first:
+      213: 2402455642665257672
+    second: Beggar_321
+  - first:
+      213: -4131125951066350662
+    second: Beggar_322
+  - first:
+      213: 7666524328510702586
+    second: Beggar_323
+  - first:
+      213: 1820675873189225283
+    second: Beggar_324
+  - first:
+      213: -5782736059809732432
+    second: Beggar_325
+  - first:
+      213: -142288728165376643
+    second: Beggar_326
+  - first:
+      213: 6424744767797016141
+    second: Beggar_327
+  - first:
+      213: -8405194933876013212
+    second: Beggar_328
+  - first:
+      213: 7804022628858063387
+    second: Beggar_329
+  - first:
+      213: -6681212111833146585
+    second: Beggar_330
+  - first:
+      213: -2946530755647281309
+    second: Beggar_331
+  - first:
+      213: 7151831520465647282
+    second: Beggar_332
+  - first:
+      213: -4086840790797222957
+    second: Beggar_333
+  - first:
+      213: -2029358632239911500
+    second: Beggar_334
+  - first:
+      213: 8420795794189858853
+    second: Beggar_335
+  - first:
+      213: 9128678932903543087
+    second: Beggar_336
+  - first:
+      213: 5269172873351625360
+    second: Beggar_337
+  - first:
+      213: 4526557981582988979
+    second: Beggar_338
+  - first:
+      213: 1034269339620179733
+    second: Beggar_339
+  - first:
+      213: -4522396621193652229
+    second: Beggar_340
+  - first:
+      213: 4697748779177336872
+    second: Beggar_341
+  - first:
+      213: -4179341350101472257
+    second: Beggar_342
+  - first:
+      213: -8873102059020599112
+    second: Beggar_343
+  - first:
+      213: 4782291944853197905
+    second: Beggar_344
+  - first:
+      213: -7418935712921685473
+    second: Beggar_345
+  - first:
+      213: -5325207777978266379
+    second: Beggar_346
+  - first:
+      213: 2416591319815387892
+    second: Beggar_347
+  - first:
+      213: -1379310850482663972
+    second: Beggar_348
+  - first:
+      213: -1439701159515513058
+    second: Beggar_349
+  - first:
+      213: -6626435194641718999
+    second: Beggar_350
+  - first:
+      213: -2342489439324835590
+    second: Beggar_351
+  - first:
+      213: 1503392641982995724
+    second: Beggar_352
+  - first:
+      213: 8761838628604523036
+    second: Beggar_353
+  - first:
+      213: -62707072699986333
+    second: Beggar_354
+  - first:
+      213: -3018937986353269922
+    second: Beggar_355
+  - first:
+      213: -7800854015970461286
+    second: Beggar_356
+  - first:
+      213: 2370052873792918485
+    second: Beggar_357
+  - first:
+      213: 1168896457027023514
+    second: Beggar_358
+  - first:
+      213: 6606792169200775588
+    second: Beggar_359
+  - first:
+      213: -1628482125768332872
+    second: Beggar_360
+  - first:
+      213: -5844511391177500984
+    second: Beggar_361
+  - first:
+      213: 6917423391340069728
+    second: Beggar_362
+  - first:
+      213: 4323479550703635753
+    second: Beggar_363
+  - first:
+      213: -1293978637714426962
+    second: Beggar_364
+  - first:
+      213: -6359870057453517009
+    second: Beggar_365
+  - first:
+      213: -3128437347690105295
+    second: Beggar_366
+  - first:
+      213: 3549786833176310091
+    second: Beggar_367
+  - first:
+      213: -7616321917438909845
+    second: Beggar_368
+  - first:
+      213: -2930107061405507048
+    second: Beggar_369
+  - first:
+      213: -2383012948596584134
+    second: Beggar_370
+  - first:
+      213: 4525284016424168703
+    second: Beggar_371
+  - first:
+      213: 4793564810926799009
+    second: Beggar_372
+  - first:
+      213: -5637297620214435488
+    second: Beggar_373
+  - first:
+      213: 2985163724848207817
+    second: Beggar_374
+  - first:
+      213: -1260745892140306566
+    second: Beggar_375
+  - first:
+      213: -59477134894319472
+    second: Beggar_376
+  - first:
+      213: 3690150734012828036
+    second: Beggar_377
+  - first:
+      213: -1206128725215217064
+    second: Beggar_378
+  - first:
+      213: -5839048771157783964
+    second: Beggar_379
+  - first:
+      213: 478535322014383796
+    second: Beggar_380
+  - first:
+      213: -6106311482617047843
+    second: Beggar_381
+  - first:
+      213: -7086207323908742842
+    second: Beggar_382
+  - first:
+      213: -2934246619785890247
+    second: Beggar_383
+  - first:
+      213: 6490772881187588838
+    second: Beggar_384
+  - first:
+      213: 7198404624413762013
+    second: Beggar_385
+  - first:
+      213: -3138045861247953592
+    second: Beggar_386
+  - first:
+      213: -7570939033878370862
+    second: Beggar_387
+  - first:
+      213: -8098325169664447703
+    second: Beggar_388
+  - first:
+      213: 6071593465495039349
+    second: Beggar_389
+  - first:
+      213: -9162781596016801157
+    second: Beggar_390
+  - first:
+      213: -5072980690252680944
+    second: Beggar_391
+  - first:
+      213: -8450526436281110690
+    second: Beggar_392
+  - first:
+      213: 9198297697574527219
+    second: Beggar_393
+  - first:
+      213: 6251662601447444253
+    second: Beggar_394
+  - first:
+      213: -6593880109209916327
+    second: Beggar_395
+  - first:
+      213: 474782911261728930
+    second: Beggar_396
+  - first:
+      213: 977963603609415840
+    second: Beggar_397
+  - first:
+      213: -835071447546284974
+    second: Beggar_398
+  - first:
+      213: -482295770192348199
+    second: Beggar_399
+  - first:
+      213: 7979404656621961309
+    second: Beggar_400
+  - first:
+      213: 5619765894061505009
+    second: Beggar_401
+  - first:
+      213: 4472857970622005248
+    second: Beggar_402
+  - first:
+      213: -2291788354964350256
+    second: Beggar_403
+  - first:
+      213: -2112258136301349513
+    second: Beggar_404
+  - first:
+      213: -2891120944611010041
+    second: Beggar_405
+  - first:
+      213: -1078962900514177477
+    second: Beggar_406
+  - first:
+      213: 6090116029297258962
+    second: Beggar_407
+  - first:
+      213: 1567449458049001335
+    second: Beggar_408
+  - first:
+      213: -8555550351365429821
+    second: Beggar_409
+  - first:
+      213: -2099604672498116064
+    second: Beggar_410
+  - first:
+      213: 7445962606342195211
+    second: Beggar_411
+  - first:
+      213: 4682376234693671932
+    second: Beggar_412
+  - first:
+      213: 6070727423833186312
+    second: Beggar_413
+  - first:
+      213: 7251613499849478215
+    second: Beggar_414
+  - first:
+      213: 6110597924323920505
+    second: Beggar_415
+  - first:
+      213: -6154866899243927765
+    second: Beggar_416
+  - first:
+      213: 3534429139791729538
+    second: Beggar_417
+  - first:
+      213: -1899858984746354979
+    second: Beggar_418
+  - first:
+      213: 5911199139265926670
+    second: Beggar_419
+  - first:
+      213: 545541570317820709
+    second: Beggar_420
+  - first:
+      213: -6752809271751055124
+    second: Beggar_421
+  - first:
+      213: 3256169933759186474
+    second: Beggar_422
+  - first:
+      213: -8955916854169378106
+    second: Beggar_423
+  - first:
+      213: 6545001095798469328
+    second: Beggar_424
+  - first:
+      213: -9085750877997106065
+    second: Beggar_425
+  - first:
+      213: 5105421677711663697
+    second: Beggar_426
+  - first:
+      213: -727862112201887743
+    second: Beggar_427
+  - first:
+      213: 6785427494281464850
+    second: Beggar_428
+  - first:
+      213: 5130887613737544825
+    second: Beggar_429
+  - first:
+      213: -6948860789514516227
+    second: Beggar_430
+  - first:
+      213: 5117198714466732864
+    second: Beggar_431
+  - first:
+      213: 4931307134866615592
+    second: Beggar_432
+  - first:
+      213: -7408456020439923237
+    second: Beggar_433
+  - first:
+      213: -7895740043363214306
+    second: Beggar_434
+  - first:
+      213: -6702404295682267720
+    second: Beggar_435
+  - first:
+      213: -6934808178021603650
+    second: Beggar_436
+  - first:
+      213: -375584506077531589
+    second: Beggar_437
+  - first:
+      213: 6619230618535881609
+    second: Beggar_438
+  - first:
+      213: -626600486390392409
+    second: Beggar_439
+  - first:
+      213: -5442824657102991413
+    second: Beggar_440
+  - first:
+      213: -5955837647618509865
+    second: Beggar_441
+  - first:
+      213: 5820797966244309964
+    second: Beggar_442
+  - first:
+      213: 8368752386023816359
+    second: Beggar_443
+  - first:
+      213: 8648388079772382537
+    second: Beggar_444
+  - first:
+      213: 1236933133639981072
+    second: Beggar_445
+  - first:
+      213: -4001995947925373760
+    second: Beggar_446
+  - first:
+      213: -179284213765592578
+    second: Beggar_447
+  - first:
+      213: -1382448041977649687
+    second: Beggar_448
+  - first:
+      213: -2191474667069491883
+    second: Beggar_449
+  - first:
+      213: -6495552762991389871
+    second: Beggar_450
+  - first:
+      213: -2558789546791177525
+    second: Beggar_451
+  - first:
+      213: 6781316553565835251
+    second: Beggar_452
+  - first:
+      213: -2765926223923385281
+    second: Beggar_453
+  - first:
+      213: 5799450797542730128
+    second: Beggar_454
+  - first:
+      213: 8895758256910685043
+    second: Beggar_455
+  - first:
+      213: -1333809219736303068
+    second: Beggar_456
+  - first:
+      213: -6824474413374037868
+    second: Beggar_457
+  - first:
+      213: 4285473443910451227
+    second: Beggar_458
+  - first:
+      213: -1217964454985260964
+    second: Beggar_459
+  - first:
+      213: 50183459742913428
+    second: Beggar_460
+  - first:
+      213: 995940197052527421
+    second: Beggar_461
+  - first:
+      213: 5646172941851031020
+    second: Beggar_462
+  - first:
+      213: -6085681486791995709
+    second: Beggar_463
+  - first:
+      213: -7413001313140081696
+    second: Beggar_464
+  - first:
+      213: -7932705918670831117
+    second: Beggar_465
+  - first:
+      213: -7714589172678353974
+    second: Beggar_466
+  - first:
+      213: -5525963178991289141
+    second: Beggar_467
+  - first:
+      213: 7456145934177376362
+    second: Beggar_468
+  - first:
+      213: -1013875632101869076
+    second: Beggar_469
+  - first:
+      213: 97866882552917365
+    second: Beggar_470
+  - first:
+      213: 3735071475292835903
+    second: Beggar_471
+  - first:
+      213: -135875526073534184
+    second: Beggar_472
+  - first:
+      213: -6581968552317802610
+    second: Beggar_473
+  - first:
+      213: -9062267451027748972
+    second: Beggar_474
+  - first:
+      213: 8825195130799410984
+    second: Beggar_475
+  - first:
+      213: -4348605617041872825
+    second: Beggar_476
+  - first:
+      213: -946811195985131865
+    second: Beggar_477
+  - first:
+      213: -2082150006562128918
+    second: Beggar_478
+  - first:
+      213: 6782863179952475926
+    second: Beggar_479
+  - first:
+      213: -9051053801773965272
+    second: Beggar_480
+  - first:
+      213: 8221557229590133849
+    second: Beggar_481
+  - first:
+      213: 9086556655313174246
+    second: Beggar_482
+  - first:
+      213: 3059671739150291558
+    second: Beggar_483
+  - first:
+      213: 1179539984415697396
+    second: Beggar_484
+  - first:
+      213: -5824536484046071614
+    second: Beggar_485
+  - first:
+      213: -7459358924336744515
+    second: Beggar_486
+  - first:
+      213: -569698628262113030
+    second: Beggar_487
+  - first:
+      213: 5948076423498379037
+    second: Beggar_488
+  - first:
+      213: -6934193272290904027
+    second: Beggar_489
+  - first:
+      213: 4615076136781056266
+    second: Beggar_490
+  - first:
+      213: 4069223169823222746
+    second: Beggar_491
+  - first:
+      213: -1231753672763814007
+    second: Beggar_492
+  - first:
+      213: 450648659106926554
+    second: Beggar_493
+  - first:
+      213: -2953870009848328719
+    second: Beggar_494
+  - first:
+      213: 3913803553715714283
+    second: Beggar_495
+  - first:
+      213: -4052405212561846854
+    second: Beggar_496
+  - first:
+      213: 1863697609123332326
+    second: Beggar_497
+  - first:
+      213: -6604214440461190736
+    second: Beggar_498
+  - first:
+      213: 1856475190277273737
+    second: Beggar_499
+  - first:
+      213: -7835532488798062779
+    second: Beggar_500
+  - first:
+      213: -1488650868248731222
+    second: Beggar_501
+  - first:
+      213: 3934368282961851261
+    second: Beggar_502
+  - first:
+      213: 8305415119634572915
+    second: Beggar_503
+  - first:
+      213: 3255394509541674811
+    second: Beggar_504
+  - first:
+      213: -5570567561291461566
+    second: Beggar_505
+  - first:
+      213: 3190016559122477624
+    second: Beggar_506
+  - first:
+      213: -8939688148188254685
+    second: Beggar_507
+  - first:
+      213: -3986593744552165675
+    second: Beggar_508
+  - first:
+      213: 6657730791831771685
+    second: Beggar_509
+  - first:
+      213: 2078276179152922929
+    second: Beggar_510
+  - first:
+      213: -9065159821130905398
+    second: Beggar_511
+  - first:
+      213: 3295922392814555747
+    second: Beggar_512
+  - first:
+      213: -4174882815568872379
+    second: Beggar_513
+  - first:
+      213: -2411285962498417720
+    second: Beggar_514
+  - first:
+      213: 6066003549438225120
+    second: Beggar_515
+  - first:
+      213: -4490600392188257030
+    second: Beggar_516
+  - first:
+      213: 4129539952074274977
+    second: Beggar_517
+  - first:
+      213: 1501012732742656120
+    second: Beggar_518
+  - first:
+      213: -3080357895734999645
+    second: Beggar_519
+  - first:
+      213: 4131317452809254556
+    second: Beggar_520
+  - first:
+      213: 1184005129984448900
+    second: Beggar_521
+  - first:
+      213: -2243160981156148129
+    second: Beggar_522
+  - first:
+      213: 3730508681276961629
+    second: Beggar_523
+  - first:
+      213: -606198428866312587
+    second: Beggar_524
+  - first:
+      213: -6622004549229100165
+    second: Beggar_525
+  - first:
+      213: 9010614016508922560
+    second: Beggar_526
+  - first:
+      213: -8562681684097140357
+    second: Beggar_527
+  - first:
+      213: 2312302527810654521
+    second: Beggar_528
+  - first:
+      213: 1351762599059345248
+    second: Beggar_529
+  - first:
+      213: -5967693017624344557
+    second: Beggar_530
+  - first:
+      213: 5666143570230493455
+    second: Beggar_531
+  - first:
+      213: -3147536605426175747
+    second: Beggar_532
+  - first:
+      213: 2359708679852372817
+    second: Beggar_533
+  - first:
+      213: -1758305368374423026
+    second: Beggar_534
+  - first:
+      213: -7211058761338244303
+    second: Beggar_535
+  - first:
+      213: -8317641422101361437
+    second: Beggar_536
+  - first:
+      213: -7352879474139011598
+    second: Beggar_537
+  - first:
+      213: -8532384403122713880
+    second: Beggar_538
+  - first:
+      213: -12760420118102941
+    second: Beggar_539
+  - first:
+      213: 7089802172505407125
+    second: Beggar_540
+  - first:
+      213: -2364491170287270569
+    second: Beggar_541
+  - first:
+      213: 5340865172819766876
+    second: Beggar_542
+  - first:
+      213: 2624831027305995400
+    second: Beggar_543
+  - first:
+      213: 5206883880544694764
+    second: Beggar_544
+  - first:
+      213: -6799801293228687482
+    second: Beggar_545
+  - first:
+      213: -4293835915771177887
+    second: Beggar_546
+  - first:
+      213: -218440806391216338
+    second: Beggar_547
+  - first:
+      213: 1095095369738942167
+    second: Beggar_548
+  - first:
+      213: -9157258123849037166
+    second: Beggar_549
+  - first:
+      213: -8263406028081013035
+    second: Beggar_550
+  - first:
+      213: -5138722823801753756
+    second: Beggar_551
+  - first:
+      213: 6440774469786365818
+    second: Beggar_552
+  - first:
+      213: 176273917196268074
+    second: Beggar_553
+  - first:
+      213: 8503693008530027929
+    second: Beggar_554
+  - first:
+      213: 5397566705853271908
+    second: Beggar_555
+  - first:
+      213: 6841888477412243548
+    second: Beggar_556
+  - first:
+      213: 4844978162638184885
+    second: Beggar_557
+  - first:
+      213: -3389001413306726057
+    second: Beggar_558
+  - first:
+      213: 4052342636937049429
+    second: Beggar_559
+  - first:
+      213: -1531678905679251153
+    second: Beggar_560
+  - first:
+      213: -6591772843412854218
+    second: Beggar_561
+  - first:
+      213: 8972904506367389511
+    second: Beggar_562
+  - first:
+      213: -2257827052601793724
+    second: Beggar_563
+  - first:
+      213: 2084686284317986711
+    second: Beggar_564
+  - first:
+      213: 9154478210406582640
+    second: Beggar_565
+  - first:
+      213: 4632643912576782494
+    second: Beggar_566
+  - first:
+      213: 766493471117891655
+    second: Beggar_567
+  - first:
+      213: 3099151218090996296
+    second: Beggar_568
+  - first:
+      213: 1344740728885880390
+    second: Beggar_569
+  - first:
+      213: 9009507300296722906
+    second: Beggar_570
+  - first:
+      213: 5004098548657348397
+    second: Beggar_571
+  - first:
+      213: 5091843070156218354
+    second: Beggar_572
+  - first:
+      213: 5235183301410021504
+    second: Beggar_573
+  - first:
+      213: -7070643828452545552
+    second: Beggar_574
+  - first:
+      213: 1050893512415877682
+    second: Beggar_575
+  - first:
+      213: -4274213395759485302
+    second: Beggar_576
+  - first:
+      213: -5367181364645572435
+    second: Beggar_577
+  - first:
+      213: -3745766855881143881
+    second: Beggar_578
+  - first:
+      213: 1141095480230102091
+    second: Beggar_579
+  - first:
+      213: 1568003313367927303
+    second: Beggar_580
+  - first:
+      213: 7214401571374274216
+    second: Beggar_581
+  - first:
+      213: 4210222370042136238
+    second: Beggar_582
+  - first:
+      213: -5991038387609831212
+    second: Beggar_583
+  - first:
+      213: 6002508131097050902
+    second: Beggar_584
+  - first:
+      213: 471334165382470257
+    second: Beggar_585
+  - first:
+      213: -5615744697262362552
+    second: Beggar_586
+  - first:
+      213: 4261163238095724806
+    second: Beggar_587
+  - first:
+      213: 7584175033354812658
+    second: Beggar_588
+  - first:
+      213: -9163223579280891326
+    second: Beggar_589
+  - first:
+      213: 2874011125765996721
+    second: Beggar_590
+  - first:
+      213: -7406339163169837413
+    second: Beggar_591
+  - first:
+      213: 7900937241327997916
+    second: Beggar_592
+  - first:
+      213: 6122519138907507348
+    second: Beggar_593
+  - first:
+      213: 756214285396777598
+    second: Beggar_594
+  - first:
+      213: 7556236166794371029
+    second: Beggar_595
+  - first:
+      213: 1343530214870258988
+    second: Beggar_596
+  - first:
+      213: 4664950041602760470
+    second: Beggar_597
+  - first:
+      213: -3741174466596539216
+    second: Beggar_598
+  - first:
+      213: -1786287884416853333
+    second: Beggar_599
+  - first:
+      213: 6369686703188962267
+    second: Beggar_600
+  - first:
+      213: -5602271021283348265
+    second: Beggar_601
+  - first:
+      213: -6814531728989028443
+    second: Beggar_602
+  - first:
+      213: 7662624625211694523
+    second: Beggar_603
+  - first:
+      213: -5863409867918249429
+    second: Beggar_604
+  - first:
+      213: 1952987079020505065
+    second: Beggar_605
+  - first:
+      213: -3088309970807902196
+    second: Beggar_606
+  - first:
+      213: -6075869629293137416
+    second: Beggar_607
+  - first:
+      213: 8189790185803702071
+    second: Beggar_608
+  - first:
+      213: -2314918756798577627
+    second: Beggar_609
+  - first:
+      213: -4227841559904353931
+    second: Beggar_610
+  - first:
+      213: 2032137022844250647
+    second: Beggar_611
+  - first:
+      213: 5479224520345539206
+    second: Beggar_612
+  - first:
+      213: 1429178785843201443
+    second: Beggar_613
+  - first:
+      213: 8472547736194433998
+    second: Beggar_614
+  - first:
+      213: -7585239931606731059
+    second: Beggar_615
+  - first:
+      213: 6381353262564196391
+    second: Beggar_616
+  - first:
+      213: 467352931089115127
+    second: Beggar_617
+  - first:
+      213: -4880059148269021186
+    second: Beggar_618
+  - first:
+      213: -7453222416266262451
+    second: Beggar_619
+  - first:
+      213: -6970621508960175923
+    second: Beggar_620
+  - first:
+      213: -8054860234268617133
+    second: Beggar_621
+  - first:
+      213: 7200718900260998697
+    second: Beggar_622
+  - first:
+      213: 9032995294593688338
+    second: Beggar_623
+  - first:
+      213: 5201551624624062157
+    second: Beggar_624
+  - first:
+      213: 3968917382134615078
+    second: Beggar_625
+  - first:
+      213: 3223296784104077714
+    second: Beggar_626
+  - first:
+      213: 7468998567426946572
+    second: Beggar_627
+  - first:
+      213: 4360545507909700304
+    second: Beggar_628
+  - first:
+      213: 2926977706518037175
+    second: Beggar_629
+  - first:
+      213: 725116402735513206
+    second: Beggar_630
+  - first:
+      213: -5807001397479722998
+    second: Beggar_631
+  - first:
+      213: -8387620069182675867
+    second: Beggar_632
+  - first:
+      213: -4112441007344209838
+    second: Beggar_633
+  - first:
+      213: 4318741147438599407
+    second: Beggar_634
+  - first:
+      213: -8282827934753992393
+    second: Beggar_635
+  - first:
+      213: -4525036390201161300
+    second: Beggar_636
+  - first:
+      213: -3456508401796622257
+    second: Beggar_637
+  - first:
+      213: -8928790828027681755
+    second: Beggar_638
+  - first:
+      213: 3172564530760579105
+    second: Beggar_639
+  - first:
+      213: 1993033942154968022
+    second: Beggar_640
+  - first:
+      213: -9170613034956929123
+    second: Beggar_641
+  - first:
+      213: 1385551013193200792
+    second: Beggar_642
+  - first:
+      213: 3777502910054314151
+    second: Beggar_643
+  - first:
+      213: 3727989883214636275
+    second: Beggar_644
+  - first:
+      213: 3273241347635348852
+    second: Beggar_645
+  - first:
+      213: -778140072766364795
+    second: Beggar_646
+  - first:
+      213: 7673431329432580130
+    second: Beggar_647
+  - first:
+      213: 2049902995672610897
+    second: Beggar_648
+  - first:
+      213: 1882991834652930833
+    second: Beggar_649
+  - first:
+      213: -8768360059144297627
+    second: Beggar_650
+  - first:
+      213: 2836784219439144785
+    second: Beggar_651
+  - first:
+      213: -4896535046999091372
+    second: Beggar_652
+  - first:
+      213: 2399695725254153897
+    second: Beggar_653
+  - first:
+      213: 3659555801387834326
+    second: Beggar_654
+  - first:
+      213: -5248780998200409603
+    second: Beggar_655
+  - first:
+      213: -7053725287705914733
+    second: Beggar_656
+  - first:
+      213: 1382052888378940647
+    second: Beggar_657
+  - first:
+      213: 7589392198749428373
+    second: Beggar_658
+  - first:
+      213: -7662673310619185479
+    second: Beggar_659
+  - first:
+      213: 5045411005010995678
+    second: Beggar_660
+  - first:
+      213: -905718669534861773
+    second: Beggar_661
+  - first:
+      213: 4890994738584043560
+    second: Beggar_662
+  - first:
+      213: 4130533494992487102
+    second: Beggar_663
+  - first:
+      213: 5706640873629255129
+    second: Beggar_664
+  - first:
+      213: -963968590109540364
+    second: Beggar_665
+  - first:
+      213: -4229393331686450343
+    second: Beggar_666
+  - first:
+      213: -2913454291542477895
+    second: Beggar_667
+  - first:
+      213: -2544465969099640501
+    second: Beggar_668
+  - first:
+      213: 2080126848335254979
+    second: Beggar_669
+  - first:
+      213: 2695955612114372228
+    second: Beggar_670
+  - first:
+      213: -8356253651096535423
+    second: Beggar_671
+  - first:
+      213: -1174133596839980903
+    second: Beggar_672
+  - first:
+      213: -7132069334813496427
+    second: Beggar_673
+  - first:
+      213: 6716000521688886717
+    second: Beggar_674
+  - first:
+      213: -9045509888499375081
+    second: Beggar_675
+  - first:
+      213: -7556276383581740718
+    second: Beggar_676
+  - first:
+      213: -3397709695683184719
+    second: Beggar_677
+  - first:
+      213: -3903271007456350611
+    second: Beggar_678
+  - first:
+      213: -8752892914879799156
+    second: Beggar_679
+  - first:
+      213: 6260229103415265966
+    second: Beggar_680
+  - first:
+      213: -6146108372233699156
+    second: Beggar_681
+  - first:
+      213: -276097944511020633
+    second: Beggar_682
+  - first:
+      213: -3560498966874091325
+    second: Beggar_683
+  - first:
+      213: 2994044718193494766
+    second: Beggar_684
+  - first:
+      213: 4109468204728282392
+    second: Beggar_685
+  - first:
+      213: -1451753079912469040
+    second: Beggar_686
+  - first:
+      213: -7995424734573942763
+    second: Beggar_687
+  - first:
+      213: 845702125106931731
+    second: Beggar_688
+  - first:
+      213: 4943665984638972152
+    second: Beggar_689
+  - first:
+      213: -6636092284946634948
+    second: Beggar_690
+  - first:
+      213: 8175526780485454552
+    second: Beggar_691
+  - first:
+      213: 8827663899126934356
+    second: Beggar_692
+  - first:
+      213: 13778554002555063
+    second: Beggar_693
+  - first:
+      213: -6926078885672802127
+    second: Beggar_694
+  - first:
+      213: -5079440002816712649
+    second: Beggar_695
+  - first:
+      213: 8586907482142197347
+    second: Beggar_696
+  - first:
+      213: -5127415357423084592
+    second: Beggar_697
+  - first:
+      213: 2150140944954198586
+    second: Beggar_698
+  - first:
+      213: -8343013021407242746
+    second: Beggar_699
+  - first:
+      213: -8647215778695064368
+    second: Beggar_700
+  - first:
+      213: 8606265680670280851
+    second: Beggar_701
+  - first:
+      213: -1160584585768978633
+    second: Beggar_702
+  - first:
+      213: -4207829749790083419
+    second: Beggar_703
+  - first:
+      213: -4841868948768458934
+    second: Beggar_704
+  - first:
+      213: 1319625030451289611
+    second: Beggar_705
+  - first:
+      213: 5647640115807661196
+    second: Beggar_706
+  - first:
+      213: -8551463450861446812
+    second: Beggar_707
+  - first:
+      213: 6594342375815763175
+    second: Beggar_708
+  - first:
+      213: 4204066606985299270
+    second: Beggar_709
+  - first:
+      213: -300331279650428048
+    second: Beggar_0
+  - first:
+      213: -3987811180597455661
+    second: Beggar_1
+  - first:
+      213: 9210735479020575805
+    second: Beggar_2
+  - first:
+      213: 8444985579006322045
+    second: Beggar_3
+  - first:
+      213: -6975841782197137801
+    second: Beggar_4
+  - first:
+      213: -1950507565678422252
+    second: Beggar_5
+  - first:
+      213: 2127166127412885265
+    second: Beggar_6
+  - first:
+      213: -7802750523314729628
+    second: Beggar_7
+  - first:
+      213: 7732239843178579197
+    second: Beggar_8
+  - first:
+      213: -1959945205628686069
+    second: Beggar_9
+  - first:
+      213: 8010745690408718163
+    second: Beggar_10
+  - first:
+      213: -8353522088644760431
+    second: Beggar_11
+  - first:
+      213: 8386685811343310235
+    second: Beggar_12
+  - first:
+      213: 1679113457691840206
+    second: Beggar_13
+  - first:
+      213: -2680001739680071146
+    second: Beggar_14
+  - first:
+      213: -6778005088937846032
+    second: Beggar_15
+  - first:
+      213: 8904772969761231909
+    second: Beggar_16
+  - first:
+      213: 75119257158468309
+    second: Beggar_17
+  - first:
+      213: -4517390100772012599
+    second: Beggar_18
+  - first:
+      213: 8477013191650766110
+    second: Beggar_19
+  - first:
+      213: 6469117233055022472
+    second: Beggar_20
+  - first:
+      213: 2973897146664425878
+    second: Beggar_21
+  - first:
+      213: -6155234583129278464
+    second: Beggar_22
+  - first:
+      213: -6290848884315353224
+    second: Beggar_23
+  - first:
+      213: -4929353271128445783
+    second: Beggar_24
+  - first:
+      213: 1013099170978540799
+    second: Beggar_25
+  - first:
+      213: 3075493354257221647
+    second: Beggar_26
+  - first:
+      213: 221565421625183898
+    second: Beggar_27
+  - first:
+      213: 8188071510487957948
+    second: Beggar_28
+  - first:
+      213: 7200689316920370280
+    second: Beggar_29
+  - first:
+      213: -1908128120336375053
+    second: Beggar_30
+  - first:
+      213: -5663177219190131171
+    second: Beggar_31
+  - first:
+      213: 8475775443473088291
+    second: Beggar_32
+  - first:
+      213: 5857618734034741993
+    second: Beggar_33
+  - first:
+      213: -1107530804615928009
+    second: Beggar_34
+  - first:
+      213: 3959406494795918566
+    second: Beggar_35
+  - first:
+      213: 8075218751740649783
+    second: Beggar_36
+  - first:
+      213: 8336697089833298636
+    second: Beggar_37
+  - first:
+      213: -6075011617279179276
+    second: Beggar_38
+  - first:
+      213: 7713072547055475811
+    second: Beggar_39
+  - first:
+      213: -6542135516630345755
+    second: Beggar_40
+  - first:
+      213: 5911071502893903030
+    second: Beggar_41
+  - first:
+      213: -209803999930943831
+    second: Beggar_42
+  - first:
+      213: -2974506853717426013
+    second: Beggar_43
+  - first:
+      213: -2373505612367770347
+    second: Beggar_44
+  - first:
+      213: -6061415046583506936
+    second: Beggar_45
+  - first:
+      213: -7463025527750581120
+    second: Beggar_46
+  - first:
+      213: -4044540125982968608
+    second: Beggar_47
+  - first:
+      213: 2592699016434932574
+    second: Beggar_48
+  - first:
+      213: -5708961293108457530
+    second: Beggar_49
+  - first:
+      213: -1882733066707579455
+    second: Beggar_50
+  - first:
+      213: -6816869118466288114
+    second: Beggar_51
+  - first:
+      213: -9096063334580861667
+    second: Beggar_52
+  - first:
+      213: -5467374161075491402
+    second: Beggar_53
+  - first:
+      213: 337761773737074145
+    second: Beggar_54
+  - first:
+      213: -5221290937352186675
+    second: Beggar_55
+  - first:
+      213: 8767619418531623703
+    second: Beggar_56
+  - first:
+      213: -5770136891992788016
+    second: Beggar_57
+  - first:
+      213: 4950445755536553868
+    second: Beggar_58
+  - first:
+      213: 387195034179851410
+    second: Beggar_59
+  - first:
+      213: -8127787928790318184
+    second: Beggar_60
+  - first:
+      213: -3403437943828167755
+    second: Beggar_61
+  - first:
+      213: -7326164438196494493
+    second: Beggar_62
+  - first:
+      213: 3828862376542811030
+    second: Beggar_63
+  - first:
+      213: -1507915694044112459
+    second: Beggar_64
+  - first:
+      213: -8286313952935087342
+    second: Beggar_65
+  - first:
+      213: -2670261543506936015
+    second: Beggar_66
+  - first:
+      213: 5269244503191083400
+    second: Beggar_67
+  - first:
+      213: -9102868892353506646
+    second: Beggar_68
+  - first:
+      213: 3372678405486037885
+    second: Beggar_69
+  - first:
+      213: -5369916071375305619
+    second: Beggar_70
+  - first:
+      213: -8012960119483105110
+    second: Beggar_71
+  - first:
+      213: -1044852453770945862
+    second: Beggar_72
+  - first:
+      213: -5943298056884890708
+    second: Beggar_73
+  - first:
+      213: -5458781776993518955
+    second: Beggar_74
+  - first:
+      213: -4469162695905963016
+    second: Beggar_75
+  - first:
+      213: 6589178968255433260
+    second: Beggar_76
+  - first:
+      213: -1582164394425140554
+    second: Beggar_77
+  - first:
+      213: -3721548060716215649
+    second: Beggar_78
+  - first:
+      213: 1673695558573700180
+    second: Beggar_79
+  - first:
+      213: 1054202717581713556
+    second: Beggar_80
+  - first:
+      213: 2088047501087884628
+    second: Beggar_81
+  - first:
+      213: -1301283724533109525
+    second: Beggar_82
+  - first:
+      213: -4939723346544126854
+    second: Beggar_83
+  - first:
+      213: -8365925098692288142
+    second: Beggar_84
+  - first:
+      213: 5385017576468171668
+    second: Beggar_85
+  - first:
+      213: -5530567079202677729
+    second: Beggar_86
+  - first:
+      213: -5391770948368355951
+    second: Beggar_87
+  - first:
+      213: 7321056401273994145
+    second: Beggar_88
+  - first:
+      213: -5886309291922076976
+    second: Beggar_89
+  - first:
+      213: 3883548770038338980
+    second: Beggar_90
+  - first:
+      213: 4126484089875615906
+    second: Beggar_91
+  - first:
+      213: 2537231947690003717
+    second: Beggar_92
+  - first:
+      213: 2428670883280863679
+    second: Beggar_93
+  - first:
+      213: 2446599699046000497
+    second: Beggar_94
+  - first:
+      213: -6726493034987076109
+    second: Beggar_95
+  - first:
+      213: 2578104238912782230
+    second: Beggar_96
+  - first:
+      213: -3904256062866363119
+    second: Beggar_97
+  - first:
+      213: -5005505640872673448
+    second: Beggar_98
+  - first:
+      213: -171910514138090197
+    second: Beggar_99
+  - first:
+      213: -9163571998482863306
+    second: Beggar_100
+  - first:
+      213: 6958084411342734871
+    second: Beggar_101
+  - first:
+      213: -2875059704470271577
+    second: Beggar_102
+  - first:
+      213: 3614875488492720044
+    second: Beggar_103
+  - first:
+      213: 2507950759510957336
+    second: Beggar_104
+  - first:
+      213: 9002956551006673468
+    second: Beggar_105
+  - first:
+      213: 7700815491769062070
+    second: Beggar_106
+  - first:
+      213: 3979901206327898561
+    second: Beggar_107
+  - first:
+      213: -5168835736903698463
+    second: Beggar_108
+  - first:
+      213: 1240229637543822056
+    second: Beggar_109
+  - first:
+      213: 4331215246983576548
+    second: Beggar_110
+  - first:
+      213: 7838355940313128195
+    second: Beggar_111
+  - first:
+      213: 5546274500794460415
+    second: Beggar_112
+  - first:
+      213: -7869041216246952059
+    second: Beggar_113
+  - first:
+      213: -6621910879850141280
+    second: Beggar_114
+  - first:
+      213: -2885274600441391401
+    second: Beggar_115
+  - first:
+      213: -6942502290356430615
+    second: Beggar_116
+  - first:
+      213: 4582915088393685556
+    second: Beggar_117
+  - first:
+      213: 3288543269454533480
+    second: Beggar_118
+  - first:
+      213: 8422358544366181816
+    second: Beggar_119
+  - first:
+      213: -9089048096598698631
+    second: Beggar_120
+  - first:
+      213: -8998928210695797761
+    second: Beggar_121
+  - first:
+      213: -2646642221441647797
+    second: Beggar_122
+  - first:
+      213: -3286747627919643524
+    second: Beggar_123
+  - first:
+      213: 3742294097421114070
+    second: Beggar_124
+  - first:
+      213: -3420783968573594944
+    second: Beggar_125
+  - first:
+      213: -5652649024478100022
+    second: Beggar_126
+  - first:
+      213: 1019294519958147001
+    second: Beggar_127
+  - first:
+      213: -3119754986499637011
+    second: Beggar_128
+  - first:
+      213: -5311108318545483865
+    second: Beggar_129
+  - first:
+      213: -7802509490935596939
+    second: Beggar_130
+  - first:
+      213: 1443567883815430144
+    second: Beggar_131
+  - first:
+      213: 6153470377621029554
+    second: Beggar_132
+  - first:
+      213: 5394639696712412082
+    second: Beggar_133
+  - first:
+      213: -2294637746869201435
+    second: Beggar_134
+  - first:
+      213: -4495218215873839477
+    second: Beggar_135
+  - first:
+      213: -7210395765480692322
+    second: Beggar_136
+  - first:
+      213: -2435713565067003050
+    second: Beggar_137
+  - first:
+      213: 7815119834633001935
+    second: Beggar_138
+  - first:
+      213: 9092325202710853010
+    second: Beggar_139
+  - first:
+      213: -4162419185624823984
+    second: Beggar_140
+  - first:
+      213: -8636835914387800707
+    second: Beggar_141
+  - first:
+      213: -3919144390901102858
+    second: Beggar_142
+  - first:
+      213: 5033035755102898450
+    second: Beggar_143
+  - first:
+      213: -1634848472232127203
+    second: Beggar_144
+  - first:
+      213: 7376070811271455853
+    second: Beggar_145
+  - first:
+      213: -8339275958761695289
+    second: Beggar_146
+  - first:
+      213: -3784977547575407155
+    second: Beggar_147
+  - first:
+      213: -8064713088759020566
+    second: Beggar_148
+  - first:
+      213: 1971994147546402997
+    second: Beggar_149
+  - first:
+      213: -9070570708509207218
+    second: Beggar_150
+  - first:
+      213: 2191417792036852953
+    second: Beggar_151
+  - first:
+      213: -5811094132873977775
+    second: Beggar_152
+  - first:
+      213: 877173515846906709
+    second: Beggar_153
+  - first:
+      213: -5583689487417025498
+    second: Beggar_154
+  - first:
+      213: -7442211010590426843
+    second: Beggar_155
+  - first:
+      213: -7628658157178041114
+    second: Beggar_156
+  - first:
+      213: -6176292363608062178
+    second: Beggar_157
+  - first:
+      213: 2454098545622932797
+    second: Beggar_158
+  - first:
+      213: -5583765534159433523
+    second: Beggar_159
+  - first:
+      213: 8529649353327312504
+    second: Beggar_160
+  - first:
+      213: -1690944802023047667
+    second: Beggar_161
+  - first:
+      213: 4110708635133131516
+    second: Beggar_162
+  - first:
+      213: -5647643336423118084
+    second: Beggar_163
+  - first:
+      213: -1445445935635416361
+    second: Beggar_164
+  - first:
+      213: -4506692022802399491
+    second: Beggar_165
+  - first:
+      213: 7002006878842397414
+    second: Beggar_166
+  - first:
+      213: 7804774832524318698
+    second: Beggar_167
+  - first:
+      213: -8998816263838673015
+    second: Beggar_168
+  - first:
+      213: -2295194320659861527
+    second: Beggar_169
+  - first:
+      213: 6148222260001342555
+    second: Beggar_170
+  - first:
+      213: -7633336184737892756
+    second: Beggar_171
+  - first:
+      213: 6791144597240786992
+    second: Beggar_172
+  - first:
+      213: 7111726710534307676
+    second: Beggar_173
+  - first:
+      213: -1802309683825813740
+    second: Beggar_174
+  - first:
+      213: 8617134762194113114
+    second: Beggar_175
+  - first:
+      213: 966834273254626027
+    second: Beggar_176
+  - first:
+      213: 420023315330725651
+    second: Beggar_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Beggar_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1280
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b6f79da4205dbf0800000000000000
+      internalID: -300331279650428048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1280
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4582d0cd278a8c0800000000000000
+      internalID: -3987811180597455661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1280
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cdb1b1e1b13df70800000000000000
+      internalID: 9210735479020575805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1280
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75e7f104ad923570800000000000000
+      internalID: 8444985579006322045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1280
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ecfc2dbd4d03f90800000000000000
+      internalID: -6975841782197137801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1280
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417960804b76ee4e0800000000000000
+      internalID: -1950507565678422252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1280
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11730ba9256358d10800000000000000
+      internalID: 2127166127412885265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1216
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d05d26dbf07b390800000000000000
+      internalID: -7802750523314729628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1216
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df408c29b2f6e4b60800000000000000
+      internalID: 7732239843178579197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1216
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01b54f3830ecc4e0800000000000000
+      internalID: -1959945205628686069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1216
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f8dce33c2eb2f60800000000000000
+      internalID: 8010745690408718163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1216
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c23f25be3521c80800000000000000
+      internalID: -8353522088644760431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1216
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d3de39f4e736470800000000000000
+      internalID: 8386685811343310235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1216
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ececc4f1bc86d4710800000000000000
+      internalID: 1679113457691840206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612c0f4fd98becad0800000000000000
+      internalID: -2680001739680071146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fad1147840bfe1a0800000000000000
+      internalID: -6778005088937846032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1152
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5245e1426db149b70800000000000000
+      internalID: 8904772969761231909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1152
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2c8bef090ea0100800000000000000
+      internalID: 75119257158468309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1152
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd3e9333a10f41c0800000000000000
+      internalID: -4517390100772012599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1152
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1de4aca59664a570800000000000000
+      internalID: 8477013191650766110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1152
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d3a9e39dbe6c950800000000000000
+      internalID: 6469117233055022472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1088
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6991b71d2b7654920800000000000000
+      internalID: 2973897146664425878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1088
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008316b22c6349aa0800000000000000
+      internalID: -6155234583129278464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1088
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f88b2254a62b8a0800000000000000
+      internalID: -6290848884315353224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1088
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acaaf5115b679bb0800000000000000
+      internalID: -4929353271128445783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1088
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc2b6014504f0e00800000000000000
+      internalID: 1013099170978540799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1088
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08839939e85eaa20800000000000000
+      internalID: 3075493354257221647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_27
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1088
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e8a7ab398231300800000000000000
+      internalID: 221565421625183898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1024
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1812218afd1a170800000000000000
+      internalID: 8188071510487957948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1024
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8642df868ccfde360800000000000000
+      internalID: 7200689316920370280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1024
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2aa619597f485e0800000000000000
+      internalID: -1908128120336375053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1024
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16761ee25a5861b0800000000000000
+      internalID: -5663177219190131171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1024
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f3138fbd000a570800000000000000
+      internalID: 8475775443473088291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1024
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea60df14317a4150800000000000000
+      internalID: 5857618734034741993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1024
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737a015e99241a0f0800000000000000
+      internalID: -1107530804615928009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1024
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec6fabaa33a2f630800000000000000
+      internalID: 3959406494795918566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 960
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731231d9ba0f01070800000000000000
+      internalID: 8075218751740649783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 960
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaeb8f55d5e1b370800000000000000
+      internalID: 8336697089833298636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 960
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f504b1fe1931bba0800000000000000
+      internalID: -6075011617279179276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 960
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c1f0ead965a0b60800000000000000
+      internalID: 7713072547055475811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 960
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e718cac86aa535a0800000000000000
+      internalID: -6542135516630345755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 960
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcece3b638580250800000000000000
+      internalID: 5911071502893903030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 960
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6f8a7af50a61df0800000000000000
+      internalID: -209803999930943831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_43
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 960
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a04532b6cd68b6d0800000000000000
+      internalID: -2974506853717426013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 896
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d4c6e883d9f0fd0800000000000000
+      internalID: -2373505612367770347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 896
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808ae20412781eba0800000000000000
+      internalID: -6061415046583506936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 896
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08421c4c2d10e6890800000000000000
+      internalID: -7463025527750581120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 897
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4b8fe2f28eed7c0800000000000000
+      internalID: -4044540125982968608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 897
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bdb1cc40e1bf320800000000000000
+      internalID: 2592699016434932574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 896
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfc0d783f1b5c0b0800000000000000
+      internalID: -5708961293108457530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 897
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd430040403fd5e0800000000000000
+      internalID: -1882733066707579455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 897
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e069c7177ad9561a0800000000000000
+      internalID: -6816869118466288114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 832
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d154ad7179a44c180800000000000000
+      internalID: -9096063334580861667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 832
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd22fafa2cff14b0800000000000000
+      internalID: -5467374161075491402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 832
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eddd4e2b88ffa400800000000000000
+      internalID: 337761773737074145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 832
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4182a5e8f3a87b0800000000000000
+      internalID: -5221290937352186675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 832
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713f4678867dca970800000000000000
+      internalID: 8767619418531623703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 832
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3b467711b5cefa0800000000000000
+      internalID: -5770136891992788016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 832
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87b892af2483b440800000000000000
+      internalID: 4950445755536553868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 832
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294d51705d79f5500800000000000000
+      internalID: 387195034179851410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 768
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893cebe01fb443f80800000000000000
+      internalID: -8127787928790318184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 768
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b34907e83f84c0d0800000000000000
+      internalID: -3403437943828167755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 768
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fd237524c345a90800000000000000
+      internalID: -7326164438196494493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 768
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69331b79b0ad22530800000000000000
+      internalID: 3828862376542811030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 768
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b993416aaec21be0800000000000000
+      internalID: -1507915694044112459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 768
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213f0f1dc59110d80800000000000000
+      internalID: -8286313952935087342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 768
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ff1e9164351fad0800000000000000
+      internalID: -2670261543506936015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 768
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889526f35fd102940800000000000000
+      internalID: 5269244503191083400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 768
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2d052b8fc1ca180800000000000000
+      internalID: -9102868892353506646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_69
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 704
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b40acf3292ece20800000000000000
+      internalID: 3372678405486037885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 704
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64830cb8c93a75b0800000000000000
+      internalID: -5369916071375305619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_71
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 704
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa086dec93f3cc090800000000000000
+      internalID: -8012960119483105110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_72
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 704
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba994aaa30ff71f0800000000000000
+      internalID: -1044852453770945862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_73
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 704
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca35b1df7e9258da0800000000000000
+      internalID: -5943298056884890708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_74
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 704
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59afceb45e28e34b0800000000000000
+      internalID: -5458781776993518955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_75
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 704
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3191be4385af1c0800000000000000
+      internalID: -4469162695905963016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_76
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 704
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a07545c57717b50800000000000000
+      internalID: 6589178968255433260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_77
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 704
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bab40eadd50b0ae0800000000000000
+      internalID: -1582164394425140554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 640
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f925772a1c76a5cc0800000000000000
+      internalID: -3721548060716215649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 640
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4543fee2e392a3710800000000000000
+      internalID: 1673695558573700180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 640
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490a5b649c741ae00800000000000000
+      internalID: 1054202717581713556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 640
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4554c78a32c3afc10800000000000000
+      internalID: 2088047501087884628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 640
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bece437d859e0fde0800000000000000
+      internalID: -1301283724533109525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 640
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a749880c9c3927bb0800000000000000
+      internalID: -4939723346544126854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 640
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271ebe2827346eb80800000000000000
+      internalID: -8365925098692288142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 640
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bce9a64fc6bba40800000000000000
+      internalID: 5385017576468171668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 640
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c97ad2b8a7f33b0800000000000000
+      internalID: -5530567079202677729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 576
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dab38a3e49c25b0800000000000000
+      internalID: -5391770948368355951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 576
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab3982220e999560800000000000000
+      internalID: 7321056401273994145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_89
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 576
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da47e0d2e0af4ea0800000000000000
+      internalID: -5886309291922076976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 576
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a55a0ac70325e530800000000000000
+      internalID: 3883548770038338980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 576
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0565caa67344930800000000000000
+      internalID: 4126484089875615906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 576
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dc5da730f063320800000000000000
+      internalID: 2537231947690003717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 576
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb14a4afc4f54b120800000000000000
+      internalID: 2428670883280863679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 576
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177e631b67114f120800000000000000
+      internalID: 2446599699046000497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 576
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5c4712932b6a2a0800000000000000
+      internalID: -6726493034987076109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 512
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f335a552447c320800000000000000
+      internalID: 2578104238912782230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 512
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d6fa4ebcb41d9c0800000000000000
+      internalID: -3904256062866363119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 512
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ff192d32fd88ab0800000000000000
+      internalID: -5005505640872673448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 512
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25f4a75c404d9df0800000000000000
+      internalID: -171910514138090197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 512
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b66bc61d374d080800000000000000
+      internalID: -9163571998482863306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 512
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716444718e4109060800000000000000
+      internalID: 6958084411342734871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 448
+        width: 25
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a982077e6cb918d0800000000000000
+      internalID: -2875059704470271577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf00e6ba1e9a2230800000000000000
+      internalID: 3614875488492720044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_104
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d52d69de70ec220800000000000000
+      internalID: 2507950759510957336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_105
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 448
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a570f884de0fc70800000000000000
+      internalID: 9002956551006673468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_106
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 448
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b258bb93eaceda60800000000000000
+      internalID: 7700815491769062070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_107
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 448
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1b25c8f037b3730800000000000000
+      internalID: 3979901206327898561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 384
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7b28f684b9448b0800000000000000
+      internalID: -5168835736903698463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 384
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e206b9c84e263110800000000000000
+      internalID: 1240229637543822056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 384
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb3632c1519b1c30800000000000000
+      internalID: 4331215246983576548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_111
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 384
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ddf65c23f67cc60800000000000000
+      internalID: 7838355940313128195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_112
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 384
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff829a6e54358fc40800000000000000
+      internalID: 5546274500794460415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_113
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f41bea4bc8bc290800000000000000
+      internalID: -7869041216246952059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 320
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9ec30a32f3a14a0800000000000000
+      internalID: -6621910879850141280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_115
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 320
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6db39a90275f7d0800000000000000
+      internalID: -2885274600441391401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_116
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 320
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e818fa23f647af90800000000000000
+      internalID: -6942502290356430615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_117
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 320
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43acb77ddf8c99f30800000000000000
+      internalID: 4582915088393685556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 320
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863d65c1ea043ad20800000000000000
+      internalID: 3288543269454533480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 320
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd1ce7f87a32e470800000000000000
+      internalID: 8422358544366181816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 256
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9755bc779e63dd180800000000000000
+      internalID: -9089048096598698631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_121
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff34c3288726d1380800000000000000
+      internalID: -8998928210695797761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 256
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b7b6f0cec354bd0800000000000000
+      internalID: -2646642221441647797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 256
+        width: 30
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ced7342702362d0800000000000000
+      internalID: -3286747627919643524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 256
+        width: 29
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da93d177ac4fe330800000000000000
+      internalID: 3742294097421114070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 256
+        width: 27
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2e1dbca1fe680d0800000000000000
+      internalID: -3420783968573594944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_126
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 256
+        width: 27
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5460849a1cd81b0800000000000000
+      internalID: -5652649024478100022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_127
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 256
+        width: 28
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf8b9727f2452e00800000000000000
+      internalID: 1019294519958147001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_128
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 256
+        width: 29
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de08f637e5764b4d0800000000000000
+      internalID: -3119754986499637011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_129
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 256
+        width: 29
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7697daf172b46b0800000000000000
+      internalID: -5311108318545483865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 256
+        width: 30
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5787b2c15fae7b390800000000000000
+      internalID: -7802509490935596939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 256
+        width: 30
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0082bfb8755980410800000000000000
+      internalID: 1443567883815430144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 256
+        width: 30
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b28df9b4b4856550800000000000000
+      internalID: 6153470377621029554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 192
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bba3cdd83c9dda40800000000000000
+      internalID: 5394639696712412082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_134
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 192
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e598a1702fc720e0800000000000000
+      internalID: -2294637746869201435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_135
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 192
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e79fe69d6cd91c0800000000000000
+      internalID: -4495218215873839477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 192
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95ea8ce0478feb90800000000000000
+      internalID: -7210395765480692322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 192
+        width: 36
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bb493ea6b923ed0800000000000000
+      internalID: -2435713565067003050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 192
+        width: 34
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbd8645512e47c60800000000000000
+      internalID: 7815119834633001935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 192
+        width: 36
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29579e1499d6e2e70800000000000000
+      internalID: 9092325202710853010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 192
+        width: 36
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057cf8addcd1c36c0800000000000000
+      internalID: -4162419185624823984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 192
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d349bee7bc32880800000000000000
+      internalID: -8636835914387800707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 192
+        width: 36
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f600e4e0f66c99c0800000000000000
+      internalID: -3919144390901102858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 192
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2198fb46a5fe8d540800000000000000
+      internalID: 5033035755102898450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 192
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15930fe9f9df49e0800000000000000
+      internalID: -1634848472232127203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_145
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 192
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6466ff92511d5660800000000000000
+      internalID: 7376070811271455853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_146
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 128
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7dd0ae2b0f44c80800000000000000
+      internalID: -8339275958761695289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_147
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 128
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd40f169fe097bc0800000000000000
+      internalID: -3784977547575407155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_148
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 128
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae34319ac22641090800000000000000
+      internalID: -8064713088759020566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b017a7aa3eed5b10800000000000000
+      internalID: 1971994147546402997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 128
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45de31affbde1280800000000000000
+      internalID: -9070570708509207218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 128
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4d3d80fda796e10800000000000000
+      internalID: 2191417792036852953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 128
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150a0b5bca8da5fa0800000000000000
+      internalID: -5811094132873977775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 128
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5537f6a4aa85c2c00800000000000000
+      internalID: 877173515846906709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 128
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cdc6eaeffb282b0800000000000000
+      internalID: -5583689487417025498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 128
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529b1423484f7b890800000000000000
+      internalID: -7442211010590426843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 128
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec448c03df812690800000000000000
+      internalID: -7628658157178041114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 128
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e170f2691d6694aa0800000000000000
+      internalID: -6176292363608062178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 128
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d58a7ff95be0220800000000000000
+      internalID: 2454098545622932797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_159
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 64
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc09b5ba4da7282b0800000000000000
+      internalID: -5583765534159433523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_160
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ef6b315e66f5670800000000000000
+      internalID: 8529649353327312504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e7f9c59ae8888e0800000000000000
+      internalID: -1690944802023047667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfabd3469bb2c0930800000000000000
+      internalID: 4110708635133131516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 35
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfae56ade4a8f91b0800000000000000
+      internalID: -5647643336423118084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_164
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 64
+        width: 34
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da3b60749eb0fbe0800000000000000
+      internalID: -1445445935635416361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 64
+        width: 35
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeb6c49b730571c0800000000000000
+      internalID: -4506692022802399491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 64
+        width: 36
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e22e3878202c2160800000000000000
+      internalID: 7002006878842397414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 64
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae75584db51205c60800000000000000
+      internalID: 7804774832524318698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 64
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98753ea2948cd1380800000000000000
+      internalID: -8998816263838673015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 64
+        width: 34
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef23920de4d520e0800000000000000
+      internalID: -2295194320659861527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_170
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54878f129fd25550800000000000000
+      internalID: 6148222260001342555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 64
+        width: 34
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66ff81ee21f01690800000000000000
+      internalID: -7633336184737892756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030b9d8b70efe3e50800000000000000
+      internalID: 6791144597240786992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ffd0183cde1b260800000000000000
+      internalID: 7111726710534307676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 35
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417d05044e8ecf6e0800000000000000
+      internalID: -1802309683825813740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_175
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 35
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5210422966369770800000000000000
+      internalID: 8617134762194113114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2d30626a2ea6d00800000000000000
+      internalID: 966834273254626027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beggar_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3177babdaf834d500800000000000000
+      internalID: 420023315330725651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: Tiles
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

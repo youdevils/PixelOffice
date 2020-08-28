@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ItemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>49</ID>
+  <Type>Quest</Type>
+  <Name>Ave of Diamonds</Name>
+  <Description>Merchants see no value in this card of diamonds..it must be good for something.</Description>
+  <Value>0</Value>
+  <SpriteURI>Icons/Card/acediamonds</SpriteURI>
+</ItemData>
